@@ -1,4 +1,4 @@
-# Tools OSINT Indonesis V2
+# Tools OSINT Indonesia V2
 
 Cek Informasi dari NIK,NO HP
 Script ini tidak akan ambil data dari database ilegal, tapi hanya dari sumber OSINT publik. 
@@ -14,7 +14,7 @@ $ pip3 install requests bs4 colorama
 Jalankan
 $ git clone https://github.com/spyschools/osint-indonesiav2.git
 
-$ cd osint-indonesiav2
+$ cd osint-indonesia-v2
 
 $ chmod +x osint_v2.py
 
