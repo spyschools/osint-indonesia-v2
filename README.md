@@ -12,7 +12,7 @@ $ pip3 install --upgrade pip
 $ pip3 install requests bs4 colorama
 
 Jalankan
-$ git clone https://github.com/spyschools/osint-indonesiav2.git
+$ git clone https://github.com/spyschools/osint-indonesia-v2.git
 
 $ cd osint-indonesia-v2
 
